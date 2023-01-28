@@ -127,7 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-code/key_spotting.ipynb
-dat/SpeechCommands/speech_commands_v0.02/_background_noise_/doing_the_dishes.wav
-dat/
-dat/SpeechCommands/speech_commands_v0.02/_background_noise_/dude_miaowing.wav
+dat/SpeechCommands/
+dat/speech_commands_v0.02.tar.gz
