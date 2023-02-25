@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e70e50398010fb6fa44ac6c70cf3d35b908f525277e94b96410a9f651d022cf
-size 525
+* filter=lfs diff=lfs merge=lfs -text
+codebase filter=lfs diff=lfs merge=lfs -text
+docs filter=lfs diff=lfs merge=lfs -text
+features filter=lfs diff=lfs merge=lfs -text
+imgs filter=lfs diff=lfs merge=lfs -text
+nb filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+dat filter=lfs diff=lfs merge=lfs -text
+models filter=lfs diff=lfs merge=lfs -text
+features/* filter=lfs diff=lfs merge=lfs -text
+wakew0rd-tensorflow filter=lfs diff=lfs merge=lfs -text
